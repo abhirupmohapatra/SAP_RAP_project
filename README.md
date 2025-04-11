@@ -44,8 +44,8 @@ The project involved creating a Fiori Elements-based application using CDS Views
 
 ## 📷 Screenshots
 
-
-
+![image Alt](https://github.com/abhirupmohapatra/SAP_RAP_project/blob/master/WhatsApp%20Image%202025-04-11%20at%2011.48.30_2437f285.jpg?raw=true)
+![image Alt](https://github.com/abhirupmohapatra/SAP_RAP_project/blob/master/WhatsApp%20Image%202025-04-11%20at%2011.48.30_378138a9.jpg?raw=true)
 ## 🧠 Learnings and Outcomes
 
 - Gained hands-on experience in **SAP RAP architecture**.
